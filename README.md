@@ -15,9 +15,6 @@ A base de dados foi adquirida de forma gratuita através INMET - Instituto Nacio
 - ``Regressão Linear``
 - ``Sickit-Learn``
 
-## Links importantes
-
-[Base de Dados](https://www.cepea.esalq.usp.br/br/indicador/soja.aspx)
 
 - Fonte: INMET - Instituto Nacional de Meteorologia.
 
